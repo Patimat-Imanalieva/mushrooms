@@ -1,0 +1,30 @@
+body.section {
+  background-color: var(--white);
+  font-family: 'PT Root UI';
+}
+
+h1,
+h2,
+ul,
+div a {
+  margin-left: 1vw;
+}
+
+h1 {
+  font-size: 30px;
+  font-weight: 700;
+  margin-bottom: 2vw;
+  margin-top: 2vw;
+}
+
+h2 {
+  font-size: 20px;
+  font-weight: 400;
+  margin-bottom: 0.7vw;
+}
+
+li {
+  font-size: 15px;
+  font-weight: 200;
+  margin-bottom: 0.2vw;
+}
